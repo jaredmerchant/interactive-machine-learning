@@ -10,7 +10,7 @@ from sklearn.decomposition import PCA
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title='Jared Merchant', page_icon='favicon.ico')
+st.set_page_config(page_title='Jared Merchant')
 
 st.title("Interactive Machine Learning")
 
